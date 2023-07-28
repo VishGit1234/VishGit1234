@@ -1,6 +1,6 @@
 # :wave: Hi, I'm Vishal Jayakumar!
 I'm currently in the first year of Mechatronics Engineering :wrench: at the University of Waterloo and am passionate about all things software :computer: and robotics :robot:.
-I love learning about the cutting-edge innovations being made in technology (especially in AI and Autonomous Vehicles :car:).
+I love learning about the cutting-edge innovations being made in technology (especially in AI and Autonomous Vehicles :car:). I'm a former participant in VRC (vex Robotics Competition) and a current mentor of <a href="https://parsec3505e.github.io/Parsec-Website/#about-us" target="_blank">Parsec 3505E</a>.
 <br>
 ## **Projects**
 <ul>
