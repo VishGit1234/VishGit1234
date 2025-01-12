@@ -4,7 +4,7 @@ I love learning about the cutting-edge innovations being made in technology (esp
 <br>
 ## **Projects**
 <ul>
-<li><a href="https://github.com/WATonomous" target="_blank"Building a self-driving car at the University of Waterloo :car:</a> </li>
+<li><a href="https://github.com/WATonomous" target="_blank">Building a self-driving car at the University of Waterloo :car:</a> </li>
 <li><a href="https://github.com/VishGit1234/DeepNetworkFromScratch/blob/main/neural-network-scratch.ipynb" target="_blank">Neural Network with only NumPy and Python :snake:</a> </li>
 <li><a href="https://github.com/VishGit1234/CADHub" target="_blank">Simple CAD Version Control</a> </li>
 <li>More below :point_down:</li>
