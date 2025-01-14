@@ -1,6 +1,6 @@
 # :wave: Hi, I'm Vishal Jayakumar!
 I'm currently a third year Computer Science student at the University of Waterloo and am passionate about all things software :computer: and robotics :robot:.
-I love learning about the cutting-edge innovations being made in technology (especially in AI and Autonomous Vehicles :car:). I'm a sub-team lead on <a href="https://github.com/WATonomous" target="_blank">WATOnomous</a> and I'm a former participant in VRC (VEX Robotics Competition) and a current mentor of <a href="https://parsec3505e.github.io/Parsec-Website/#about-us" target="_blank">Parsec 3505E</a>.
+I love learning about the cutting-edge innovations being made in technology (especially in AI and Autonomous Vehicles :car:). Through multiple internships, I’ve had the opportunity to develop software in a variety of environments for many projects. Currently working on turning a Kia Soul into a fully self-driving car as Autonomy Director at <a href="https://www.watonomous.ca/" target="_blank">WATOnomous</a>.
 <br>
 ## **Projects**
 <ul>
